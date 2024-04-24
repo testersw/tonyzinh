@@ -7,7 +7,7 @@ I'm currently studying Computer Science at FAESA and have a passion for transfor
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Linguagens:
 </p>
 
 <p align="left">
