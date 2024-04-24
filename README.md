@@ -12,6 +12,7 @@ I'm currently studying Computer Science at FAESA and have a passion for transfor
   <img height="32" width="32" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/5679eabb0e2369bba208a6819d32a8e2a3ac04d8/icons/javascript.svg" />
   <img height="32" width="32" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/5679eabb0e2369bba208a6819d32a8e2a3ac04d8/icons/html.svg" />
   <img height="32" width="32" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/5679eabb0e2369bba208a6819d32a8e2a3ac04d8/icons/css.svg" />
+  <img height="32" width="32" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/5679eabb0e2369bba208a6819d32a8e2a3ac04d8/icons/nodejs.svg" />
 </p>
 <p align="left">
   💼 Ferramentas:
