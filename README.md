@@ -14,7 +14,7 @@ I'm currently studying Computer Science at FAESA and have a passion for transfor
   💼 Ferramentas:
 </p>
 
-<img height="32" width="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/d9cfcd60e6e55df6f27bef66cb8aae04d5ba990c/icons/adobephotoshop.svg" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/d9cfcd60e6e55df6f27bef66cb8aae04d5ba990c/icons/adobephotoshop.svg/white" />
 
 ### Experiência de trabalho 💼
 
