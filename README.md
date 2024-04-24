@@ -14,14 +14,15 @@ I'm currently studying Computer Science at FAESA and have a passion for transfor
   <img height="32" width="32" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/5679eabb0e2369bba208a6819d32a8e2a3ac04d8/icons/css.svg" />
   <img height="32" width="32" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/5679eabb0e2369bba208a6819d32a8e2a3ac04d8/icons/nodejs.svg" />
   <img height="32" width="32" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/5679eabb0e2369bba208a6819d32a8e2a3ac04d8/icons/react.svg" />
+  <img height="32" width="32" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
 </p>
 
 ### Ferramentas:
 <p align="left">
-  <img height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" />
-  <img height="32" width="32" src="hhttps://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png" />
+  <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/800px-Adobe_Illustrator_CC_icon.svg.png" />
+  <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" />
   <img height="32" width="32" src="https://4.bp.blogspot.com/-LiJZ5I8E7K8/XIe_GeI5glI/AAAAAAAAIuw/4Awu8j8r0P8TKBXzyxyslHEfplOlK9-6QCK4BGAYYCw/s1600/icon%2Bfigma%2Bvector.png" />
-  <img height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" />
+  <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/2101px-Adobe_After_Effects_CC_icon.svg.png" />
   <img height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" />
 </p>
 
