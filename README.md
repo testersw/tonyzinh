@@ -1,18 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-### Olá, meu nome é Entony Jovino!
-
-
-<p align="left"> 
-Estou cursando Ciência da Computação na FAESA, e tenho uma paixão por transformar designs em interfaces intuitivas. Minha jornada na tecnologia começou com a curiosidade sobre o funcionamento de sites e aplicativos, levando-me ao mundo da programação. Atualmente, busco oportunidades como desenvolvedor Front End, onde posso aplicar minhas habilidades em HTML, CSS, JavaScript e frameworks como React e Vue.js para criar experiências de usuário excepcionais.
-</p>
-
-### US-EN
+### Hello! I'm Entony Jovino
 
 <p align="left"> 
-Hello! I'm Entony Jovino, a Computer Science student at FAESA, with a passion for turning designs into intuitive interfaces. My journey into technology began with curiosity about how websites and apps work, leading me into programming. Currently, I'm seeking opportunities as a Front End Developer, where I can apply my skills in HTML, CSS, JavaScript, and frameworks like React and Vue.js to create exceptional user experiences.
+I'm currently studying Computer Science at FAESA and have a passion for transforming designs into intuitive interfaces. My journey into technology began with curiosity about how websites and apps work, leading me into programming. Currently, I'm seeking opportunities as a Front End Developer, where I can apply my skills in HTML, CSS, JavaScript, and frameworks like React and Vue.js to create exceptional user experiences.
 </p>
-
 
 <p align="left">
   🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
