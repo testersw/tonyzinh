@@ -20,7 +20,7 @@ I'm currently studying Computer Science at FAESA and have a passion for transfor
 <p align="left">
   <img height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" />
   <img height="32" width="32" src="hhttps://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png" />
-  <img height="32" width="32" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.png" />
+  <img height="32" width="32" src="https://4.bp.blogspot.com/-LiJZ5I8E7K8/XIe_GeI5glI/AAAAAAAAIuw/4Awu8j8r0P8TKBXzyxyslHEfplOlK9-6QCK4BGAYYCw/s1600/icon%2Bfigma%2Bvector.png" />
   <img height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" />
   <img height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" />
 </p>
