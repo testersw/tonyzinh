@@ -4,7 +4,10 @@
 
 
 <p align="left"> 
+  PT-BR
 Estou cursando Ciência da Computação na FAESA, e tenho uma paixão por transformar designs em interfaces intuitivas. Minha jornada na tecnologia começou com a curiosidade sobre o funcionamento de sites e aplicativos, levando-me ao mundo da programação. Atualmente, busco oportunidades como desenvolvedor Front End, onde posso aplicar minhas habilidades em HTML, CSS, JavaScript e frameworks como React e Vue.js para criar experiências de usuário excepcionais.
+  US- EN
+Hello! I'm Entony Jovino, a Computer Science student at FAESA, with a passion for turning designs into intuitive interfaces. My journey into technology began with curiosity about how websites and apps work, leading me into programming. Currently, I'm seeking opportunities as a Front End Developer, where I can apply my skills in HTML, CSS, JavaScript, and frameworks like React and Vue.js to create exceptional user experiences.
 </p>
 
 <p align="left">
@@ -46,7 +49,6 @@ Projetos em destaque: [App](https://nubank.com.br/)
 <br/>
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/entonyjoviino/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 <p align="left">
   💌 Entre em contato comigo:
 </p>
