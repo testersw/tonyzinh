@@ -20,7 +20,7 @@ I'm currently studying Computer Science at FAESA and have a passion for transfor
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://fixsi.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://fixsi.com.br/images/logo_menu_img.png"/>](https://fixsi.com.br/)
 
 **Estagiário de TI** \
 [**FIX Soluções Inteligentes**](https://fixsi.com.br/) • Full-time \
