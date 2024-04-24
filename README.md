@@ -14,7 +14,7 @@ I'm currently studying Computer Science at FAESA and have a passion for transfor
   💼 Ferramentas:
 </p>
 
-<img height="32" width="32" color-background="#31A8FF" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/simpleicons.svg" />
+<img height="32" width="32" fill="#31A8FF" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/simpleicons.svg" />
 
 ### Experiência de trabalho 💼
 
