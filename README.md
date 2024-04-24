@@ -35,5 +35,5 @@ Linguagens & Tecnologias: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `Adobe I
 <br/>
 
 
-### Entre em contato comigo 💌:
+### 💌 Entre em contato comigo:
 
