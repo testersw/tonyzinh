@@ -27,7 +27,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 Linguagens & Tecnologias: `Python`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://media.licdn.com/dms/image/C4E0BAQEX7IVsorb2qw/company-logo_200_200/0/1630630812902?e=1721865600&v=beta&t=siaRHoMu0ijEJMCuOxbPdqoNUs0chbrAkwgxLIesT4E](https://media.licdn.com/dms/image/D4D0BAQEA561Ws9XxBg/company-logo_200_200/0/1694439830642/superticket_logo?e=1721865600&v=beta&t=ygaAch447_TZjNywtmitF8CWHCvlxstFHJQ0tprnKHI)"/>](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQEA561Ws9XxBg/company-logo_200_200/0/1694439830642/superticket_logo?e=1721865600&v=beta&t=ygaAch447_TZjNywtmitF8CWHCvlxstFHJQ0tprnKHI"/>](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo)
 
 **Estagiário de Design** \
 [**Zig.Tickets**](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo) • 4 Hours  \
