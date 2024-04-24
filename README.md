@@ -45,7 +45,7 @@ Linguagens & Tecnologias: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `Adobe I
 <br/>
 
 ### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=EntonyJovino&show_icons=true" alt="EntonyJovino" />
+<img src="https://github-readme-stats.vercel.app/api?username=tonyzinh&show_icons=true" alt="tonyzinh" />
 
 
 ### Entre em contato comigo 📩
