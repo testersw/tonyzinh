@@ -24,7 +24,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Estagiário de TI** \
 [**FIX Soluções Inteligentes**](https://fixsi.com.br/) • Full-time \
-Linguagens & Tecnologias: `Python`,\
+Linguagens & Tecnologias: `Python`\
 <br/>
 
 <p align="left">
