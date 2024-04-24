@@ -47,3 +47,6 @@ Linguagens & Tecnologias: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `Adobe I
 
 ### Entre em contato comigo 📩
 
+  [![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=black&link=https://github.com/EntonyJovino)](https://github.com/EntonyJovino)
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn--000?style=social&logo=Linkedin&logoColor=0077B5&link=www.linkedin.com/in/entonyjoviino)](www.linkedin.com/in/entonyjoviino)
+  [![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:entonysantos@outlook.com)](mailto:entonysantos@outlook.com)
