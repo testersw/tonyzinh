@@ -1,8 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+Olá! Sou Entony Jovino, cursando o 3° período de Ciência da Computação na Universidade FAESA. Minha jornada na área de tecnologia começou há alguns anos, impulsionada por uma curiosidade incessante sobre o funcionamento de sites e aplicativos. Essa curiosidade me levou ao mundo da programação, onde descobri minha verdadeira paixão.
+
+Estou atualmente em busca de oportunidades de emprego na área de desenvolvedor Front End, pois acredito que esta área se alinha perfeitamente com minha habilidade de transformar designs criativos em interfaces funcionais e intuitivas. Ao longo dos meus estudos, adquiri experiência em linguagens como HTML, CSS e JavaScript, e continuo a me aprimorar em frameworks modernos, como React e Vue.js.
 </p>
 
 <p align="left">
@@ -14,7 +15,7 @@
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Entre em contato comigo:
 </p>
 
 <p align="left">
