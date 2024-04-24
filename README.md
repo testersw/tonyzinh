@@ -16,6 +16,7 @@ Estou cursando Ciência da Computação na FAESA, e tenho uma paixão por transf
 </p>
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
 ### Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
