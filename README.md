@@ -44,6 +44,9 @@ Linguagens & Tecnologias: `Python`\
 Linguagens & Tecnologias: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `Adobe Illustrator`\
 <br/>
 
+### GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=EntonyJovino&show_icons=true" alt="EntonyJovino" />
+
 
 ### Entre em contato comigo 📩
 
