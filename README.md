@@ -23,8 +23,15 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQEX7IVsorb2qw/company-logo_200_200/0/1630630812902?e=1721865600&v=beta&t=siaRHoMu0ijEJMCuOxbPdqoNUs0chbrAkwgxLIesT4E"/>](https://fixsi.com.br/)
 
 **Estagiário de TI** \
-[**FIX Soluções Inteligentes**](https://fixsi.com.br/) • Full-time \
+[**FIX Soluções Inteligentes**](https://fixsi.com.br/) • 6 Hours \
 Linguagens & Tecnologias: `Python`\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQEX7IVsorb2qw/company-logo_200_200/0/1630630812902?e=1721865600&v=beta&t=siaRHoMu0ijEJMCuOxbPdqoNUs0chbrAkwgxLIesT4E"/>](https://fixsi.com.br/)
+
+**Estagiário de Design** \
+[**Zig.Tickets**](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo) • 4 Hours  \
+Linguagens & Tecnologias: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `Adobe After Effects`, `Adobe Illustrator`\
 <br/>
 
 <p align="left">
