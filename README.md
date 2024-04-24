@@ -18,6 +18,7 @@ I'm currently studying Computer Science at FAESA and have a passion for transfor
 
 ### Ferramentas:
 <p align="left">
+  <img height="32" width="32" src="https://www.figma.com/file/vEa74QtldMcRhuwj1FjcQl/Brands-logos-(Community)?type=design&node-id=1-13506&mode=design&t=lSEihJltxvwO4f3O-4" />
 </p>
 
 <img height="32" width="32" src="https://simpleicons.org/icons/adobephotoshop.svg" />
