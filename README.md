@@ -33,7 +33,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="80px" width="80px" alt="FIX" src="https://media.licdn.com/dms/image/C4E0BAQEX7IVsorb2qw/company-logo_200_200/0/1630630812902?e=1721865600&v=beta&t=siaRHoMu0ijEJMCuOxbPdqoNUs0chbrAkwgxLIesT4E"/>](https://fixsi.com.br/)
 
 **Estagiário de TI** \
-[**FIX Soluções Inteligentes**](https://fixsi.com.br/) • 2024 - Atualmente \
+[**FIX Soluções Inteligentes**](https://fixsi.com.br/) • 2024\
 Linguagens & Tecnologias: `Python`\
 <br/>
 
