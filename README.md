@@ -33,14 +33,14 @@ Abaixo você encontrará minha experiência de trabalho mais recente:
 [<img align="left" height="80px" width="80px" alt="FIX" src="https://media.licdn.com/dms/image/C4E0BAQEX7IVsorb2qw/company-logo_200_200/0/1630630812902?e=1721865600&v=beta&t=siaRHoMu0ijEJMCuOxbPdqoNUs0chbrAkwgxLIesT4E"/>](https://fixsi.com.br/)
 
 **Estagiário de TI** \
-[**FIX Soluções Inteligentes**](https://fixsi.com.br/) • 2024\
+[**FIX Soluções Inteligentes**](https://fixsi.com.br/) • Março 2024\
 Linguagens & Tecnologias: `Python`\
 <br/>
 
 [<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://media.licdn.com/dms/image/D4D0BAQEA561Ws9XxBg/company-logo_200_200/0/1694439830642/superticket_logo?e=1721865600&v=beta&t=ygaAch447_TZjNywtmitF8CWHCvlxstFHJQ0tprnKHI"/>](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo)
 
 **Estagiário de Design** \
-[**Zig.Tickets**](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo) • 2021 - 2022  \
+[**Zig.Tickets**](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo) • Outubro 2021 - Junho 2022  \
 Linguagens & Tecnologias: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `Adobe Illustrator`\
 <br/>
 
@@ -51,8 +51,13 @@ Abaixo você encontrará os cursos concluídos e em andamento:
 [<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
 
 **JavaScript FullStack** \
-[**OneBitCode**](https://www.onebitcode.com) • 2024\
+[**OneBitCode**](https://www.onebitcode.com) • Março 2024\
 Linguagens & Tecnologias: `JavaScript`, `Typescript`, `NodeJS`\
+<br/>
+
+**Motion Design Essential** \
+[**OneBitCode**](https://www.onebitcode.com) • Dezembro 2023\
+Linguagens & Tecnologias: `AfterEffects`, `Cinema4D`, `MediaEncoder`\
 <br/>
 
 ### GitHub Stats
