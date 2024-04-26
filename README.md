@@ -37,7 +37,7 @@ Abaixo você encontrará minha experiência de trabalho mais recente:
 Linguagens & Tecnologias: `Python`\
 <br/>
 
-[<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://media.licdn.com/dms/image/D4D0BAQEA561Ws9XxBg/company-logo_200_200/0/1694439830642/superticket_logo?e=1721865600&v=beta&t=ygaAch447_TZjNywtmitF8CWHCvlxstFHJQ0tprnKHI"/>](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo)
+[<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://www.layerlemonade.com/wp-content/uploads/2017/05/Logo_Neo_00000.png"/>](https://www.layerlemonade.com/wp-content/uploads/2017/05/Logo_Neo_00000.png)
 
 **Estagiário de Design** \
 [**Zig.Tickets**](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo) • Outubro 2021 - Junho 2022  \
