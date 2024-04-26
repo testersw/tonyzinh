@@ -28,7 +28,7 @@ I'm currently studying Computer Science at FAESA and have a passion for transfor
 
 ### Experiência de trabalho 💼
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+Abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="80px" width="80px" alt="FIX" src="https://media.licdn.com/dms/image/C4E0BAQEX7IVsorb2qw/company-logo_200_200/0/1630630812902?e=1721865600&v=beta&t=siaRHoMu0ijEJMCuOxbPdqoNUs0chbrAkwgxLIesT4E"/>](https://fixsi.com.br/)
 
@@ -45,6 +45,8 @@ Linguagens & Tecnologias: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `Adobe I
 <br/>
 
 ### Cursos
+
+Abaixo você encontrará os cursos concluídos e em andamento:
 
 [<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
 
