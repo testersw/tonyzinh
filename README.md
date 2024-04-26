@@ -44,6 +44,15 @@ Linguagens & Tecnologias: `Python`\
 Linguagens & Tecnologias: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `Adobe Illustrator`\
 <br/>
 
+### Cursos
+
+[<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://assets-global.website-files.com/645baaf6d280a237e2676a09/646bf9df4153099d061d0e00_logoobcpro_05.png"/>](https://assets-global.website-files.com/645baaf6d280a237e2676a09/646bf9df4153099d061d0e00_logoobcpro_05.png)
+
+**JavaScript FullStack** \
+[**OneBitCode**](https://www.onebitcode.com) • 2024\
+Linguagens & Tecnologias: `JavaScript`, `Typescript`, `NodeJS`\
+<br/>
+
 ### GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=tonyzinh&show_icons=true" alt="tonyzinh" />
 
