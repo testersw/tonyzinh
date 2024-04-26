@@ -46,7 +46,7 @@ Linguagens & Tecnologias: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `Adobe I
 
 ### Cursos
 
-[<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://assets-global.website-files.com/645baaf6d280a237e2676a09/646bf9df4153099d061d0e00_logoobcpro_05.png"/>](https://assets-global.website-files.com/645baaf6d280a237e2676a09/646bf9df4153099d061d0e00_logoobcpro_05.png)
+[<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
 
 **JavaScript FullStack** \
 [**OneBitCode**](https://www.onebitcode.com) • 2024\
