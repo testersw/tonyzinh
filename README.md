@@ -37,7 +37,7 @@ Abaixo você encontrará minha experiência de trabalho mais recente:
 Linguagens & Tecnologias: `Python`\
 <br/>
 
-[<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://www.layerlemonade.com/wp-content/uploads/2017/05/Logo_Neo_00000.png"/>](https://www.layerlemonade.com/wp-content/uploads/2017/05/Logo_Neo_00000.png)
+[<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://media.licdn.com/dms/image/D4D0BAQEA561Ws9XxBg/company-logo_200_200/0/1694439830642/superticket_logo?e=2147483647&v=beta&t=mu4Evv9cLppKBXqhN1TBNtYRx1gyPJYJ_2oWwAR3UMk"/>](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo)
 
 **Estagiário de Design** \
 [**Zig.Tickets**](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo) • Outubro 2021 - Junho 2022  \
@@ -55,8 +55,10 @@ Abaixo você encontrará os cursos concluídos e em andamento:
 Linguagens & Tecnologias: `JavaScript`, `Typescript`, `NodeJS`\
 <br/>
 
+[<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://www.layerlemonade.com/wp-content/uploads/2016/06/layer-lemonade-logo.png"/>](https://www.layerlemonade.com/)
+
 **Motion Design Essential** \
-[**OneBitCode**](https://www.onebitcode.com) • Dezembro 2023\
+[**Layer Lemonade**](https://www.layerlemonade.com/) • Dezembro 2023\
 Linguagens & Tecnologias: `AfterEffects`, `Cinema4D`, `MediaEncoder`\
 <br/>
 
