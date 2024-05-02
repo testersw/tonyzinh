@@ -44,7 +44,7 @@ Linguagens & Tecnologias: `Python`\
 Linguagens & Tecnologias: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `Adobe Illustrator`\
 <br/>
 
-### Cursos
+### Formação
 
 Abaixo você encontrará os cursos concluídos e em andamento:
 
@@ -53,6 +53,13 @@ Abaixo você encontrará os cursos concluídos e em andamento:
 **JavaScript FullStack** \
 [**OneBitCode**](https://www.onebitcode.com) • Março 2024\
 Linguagens & Tecnologias: `JavaScript`, `Typescript`, `NodeJS`\
+<br/>
+
+[<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSJ5TyESs-WoQwyVfJMvGE6FT1DMWhgBZ3tiMVZ8REg&s"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
+
+**Ciência da Computação** \
+[**FAESA - Centro Universitário**](https://www.faesa.br/) • Janeiro 2023 - Dezembro 2026\
+Linguagens & Tecnologias: `Python`, `Java`, `C++`\
 <br/>
 
 ### GitHub Stats
