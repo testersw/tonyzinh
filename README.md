@@ -26,7 +26,7 @@ I'm currently studying Computer Science at FAESA and have a passion for transfor
   <img height="32" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" />
 </p>
 
-### Experiência de trabalho 💼
+### Experiência 💼
 
 Abaixo você encontrará minha experiência de trabalho mais recente:
 
