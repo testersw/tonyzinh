@@ -64,16 +64,9 @@ Linguagens & Tecnologias: `JavaScript`, `Typescript`, `NodeJS`\
 
 [<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://play-lh.googleusercontent.com/wKwW77zj6Gd-llTDakdjSDnWUPKSMDGXhnZSXel3A3qQSiM1cbDvuspBpQk15tiT9ik"/>]()
 
-**Java** \
+**Curso de Java** \
 [**Udemy**](https://www.udemy.com/course/java-curso-completo/?kw=jav&src=sac) • Fevereiro 2024\
 Linguagens & Tecnologias: `Java`\
-<br/>
-
-[<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
-
-**Formação Pyhton** \
-[**OneBitCode**](https://www.onebitcode.com/python) • Maio 2024\
-Linguagens & Tecnologias: `Python`, `Automação`, `Selenium`, `Django`\
 <br/>
 
 ### GitHub Stats
