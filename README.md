@@ -32,14 +32,14 @@ Abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="80px" width="80px" alt="FIX" src="https://media.licdn.com/dms/image/C4E0BAQEX7IVsorb2qw/company-logo_200_200/0/1630630812902?e=1721865600&v=beta&t=siaRHoMu0ijEJMCuOxbPdqoNUs0chbrAkwgxLIesT4E"/>](https://fixsi.com.br/)
 
-**Estagiário de TI** \
+**Estágio de TI** \
 [**FIX Soluções Inteligentes**](https://fixsi.com.br/) • Março 2024\
 Linguagens & Tecnologias: `Python`\
 <br/>
 
 [<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://media.licdn.com/dms/image/D4D0BAQEA561Ws9XxBg/company-logo_200_200/0/1694439830642/superticket_logo?e=2147483647&v=beta&t=mu4Evv9cLppKBXqhN1TBNtYRx1gyPJYJ_2oWwAR3UMk"/>](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo)
 
-**Estagiário de Design** \
+**Estágio de Design** \
 [**Zig.Tickets**](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo) • Outubro 2021 - Junho 2022  \
 Linguagens & Tecnologias: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `Adobe Illustrator`\
 <br/>
