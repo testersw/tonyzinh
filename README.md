@@ -48,6 +48,13 @@ Linguagens & Tecnologias: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `Adobe I
 
 Abaixo você encontrará os cursos concluídos e em andamento:
 
+[<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSJ5TyESs-WoQwyVfJMvGE6FT1DMWhgBZ3tiMVZ8REg&s"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
+
+**Ciência da Computação** \
+[**FAESA - Centro Universitário**](https://www.faesa.br/) • Janeiro 2023 - Dezembro 2026\
+Linguagens & Tecnologias: `Python`, `Java`, `C++`\
+<br/>
+
 [<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
 
 **JavaScript FullStack** \
@@ -55,11 +62,18 @@ Abaixo você encontrará os cursos concluídos e em andamento:
 Linguagens & Tecnologias: `JavaScript`, `Typescript`, `NodeJS`\
 <br/>
 
-[<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSJ5TyESs-WoQwyVfJMvGE6FT1DMWhgBZ3tiMVZ8REg&s"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
+[<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://play-lh.googleusercontent.com/wKwW77zj6Gd-llTDakdjSDnWUPKSMDGXhnZSXel3A3qQSiM1cbDvuspBpQk15tiT9ik"/>]()
 
-**Ciência da Computação** \
-[**FAESA - Centro Universitário**](https://www.faesa.br/) • Janeiro 2023 - Dezembro 2026\
-Linguagens & Tecnologias: `Python`, `Java`, `C++`\
+**Java** \
+[**Udemy**](https://www.udemy.com/course/java-curso-completo/?kw=jav&src=sac) • Fevereiro 2024\
+Linguagens & Tecnologias: `Java`\
+<br/>
+
+[<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
+
+**Formação Pyhton** \
+[**OneBitCode**](https://www.onebitcode.com/python) • Maio 2024\
+Linguagens & Tecnologias: `Python`, `Automação`, `Selenium`, `Django`\
 <br/>
 
 ### GitHub Stats
