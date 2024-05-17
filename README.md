@@ -19,7 +19,7 @@ I'm currently studying Computer Science at FAESA and have a passion for transfor
 
 ### Experiências de Trabalho 💼
 
-Abaixo você encontrará minha experiência de trabalho mais recente:
+Abaixo você encontrará minhas experiências de trabalho mais recentes:
 
 [<img align="left" height="80px" width="80px" alt="FIX" src="https://media.licdn.com/dms/image/C4E0BAQEX7IVsorb2qw/company-logo_200_200/0/1630630812902?e=1721865600&v=beta&t=siaRHoMu0ijEJMCuOxbPdqoNUs0chbrAkwgxLIesT4E"/>](https://fixsi.com.br/)
 
@@ -37,7 +37,7 @@ Linguagens & Tecnologias: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `Adobe I
 
 ### Cursos & Certificados 🎓
 
-Abaixo você encontrará os cursos concluídos e em andamento:
+Abaixo você encontrará os cursos concluídos e cursos em andamento:
 
 [<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSJ5TyESs-WoQwyVfJMvGE6FT1DMWhgBZ3tiMVZ8REg&s"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
 
@@ -74,6 +74,7 @@ Linguagens & Tecnologias: `Java`\
 
 
 ### Entre em contato comigo 📩
+Sinta-se à vontade para entrar em contato via LinkedIn ou e-mail!
 
   [![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=black&link=https://github.com/EntonyJovino)](https://github.com/EntonyJovino)
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn--000?style=social&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/entonyjoviino/)](https://www.linkedin.com/in/entonyjoviino/)
