@@ -17,7 +17,7 @@ I'm currently studying Computer Science at FAESA and have a passion for transfor
   <img height="40" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
 </p>
 
-### Experiência 💼
+### Experiências de Trabalho 💼
 
 Abaixo você encontrará minha experiência de trabalho mais recente:
 
@@ -60,7 +60,7 @@ Linguagens & Tecnologias: `JavaScript`, `Typescript`, `NodeJS`\
 Linguagens & Tecnologias: `Java`\
 <br/>
 
-### Ferramentas 🛠
+### Ferramentas Utilizadas 🛠
 <p align="left">
   <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/800px-Adobe_Illustrator_CC_icon.svg.png" />
   <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" />
