@@ -35,7 +35,7 @@ Linguagens & Tecnologias: `Python`\
 Linguagens & Tecnologias: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `Adobe Illustrator`\
 <br/>
 
-### Formação 🎓
+### Cursos & Certificados 🎓
 
 Abaixo você encontrará os cursos concluídos e em andamento:
 
