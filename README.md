@@ -39,14 +39,14 @@ Linguagens & Tecnologias: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `Adobe I
 
 Abaixo você encontrará os cursos concluídos e cursos em andamento:
 
-[<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSJ5TyESs-WoQwyVfJMvGE6FT1DMWhgBZ3tiMVZ8REg&s"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
+[<img align="left" height="80px" width="80px" alt="FAESA" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSJ5TyESs-WoQwyVfJMvGE6FT1DMWhgBZ3tiMVZ8REg&s"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
 
 **Ciência da Computação** \
 [**FAESA - Centro Universitário**](https://www.faesa.br/) • Janeiro 2023 - Dezembro 2026\
 Linguagens & Tecnologias: `Python`, `Java`, `C++`\
 <br/>
 
-[<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
+[<img align="left" height="80px" width="80px" alt="OneBitCode" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
 
 **JavaScript FullStack** \
 [**OneBitCode**](https://www.onebitcode.com) • Março 2024\
@@ -57,6 +57,13 @@ Linguagens & Tecnologias: `JavaScript`, `Typescript`, `NodeJS`\
 
 **Curso de Java** \
 [**Udemy**](https://www.udemy.com/course/java-curso-completo/?kw=jav&src=sac) • Fevereiro 2024\
+Linguagens & Tecnologias: `Java`\
+<br/>
+
+[<img align="left" height="80px" width="80px" alt="Dio" src="https://media.licdn.com/dms/image/D4D0BAQGVnRzLNvSenA/company-logo_200_200/0/1701787387170/dio_makethechange_logo?e=1724284800&v=beta&t=zGhUG5IY6aJXlZWohqDWcFZIwG11Qi7c0TFDb8uEnho"/>]()
+
+**Santander | Bootcamp Back-End com Java** \
+[**Dio**](https://www.dio.me/) • Abril 2024\
 Linguagens & Tecnologias: `Java`\
 <br/>
 
