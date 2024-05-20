@@ -55,7 +55,7 @@ Linguagens & Tecnologias: `JavaScript`, `Typescript`, `NodeJS`\
 
 [<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://play-lh.googleusercontent.com/wKwW77zj6Gd-llTDakdjSDnWUPKSMDGXhnZSXel3A3qQSiM1cbDvuspBpQk15tiT9ik"/>]()
 
-**Curso de Java** \
+**Java | Programação Orientada a Objetos** \
 [**Udemy**](https://www.udemy.com/course/java-curso-completo/?kw=jav&src=sac) • Fevereiro 2024\
 Linguagens & Tecnologias: `Java`\
 <br/>
