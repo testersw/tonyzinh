@@ -54,13 +54,6 @@ Linguagens & Tecnologias: `JavaScript`, `Typescript`, `NodeJS`\
 
 [<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://play-lh.googleusercontent.com/wKwW77zj6Gd-llTDakdjSDnWUPKSMDGXhnZSXel3A3qQSiM1cbDvuspBpQk15tiT9ik"/>]()
 
-**Java | Programação Orientada a Objetos** \
-[**Udemy**](https://www.udemy.com/course/java-curso-completo/?kw=jav&src=sac) • Fevereiro 2024\
-Linguagens & Tecnologias: `Java`\
-<br/>
-
-[<img align="left" height="80px" width="80px" alt="Dio" src="https://media.licdn.com/dms/image/D4D0BAQGVnRzLNvSenA/company-logo_200_200/0/1701787387170/dio_makethechange_logo?e=1724284800&v=beta&t=zGhUG5IY6aJXlZWohqDWcFZIwG11Qi7c0TFDb8uEnho"/>]()
-
 **Santander | Bootcamp Back-End com Java** \
 [**Dio**](https://www.dio.me/) • Abril 2024\
 Linguagens & Tecnologias: `Java`\
