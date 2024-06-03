@@ -82,6 +82,6 @@ Linguagens & Tecnologias: `Java`\
 ### Entre em contato comigo 📩
 Sinta-se à vontade para entrar em contato via LinkedIn ou e-mail!
 
-  [![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=black&link=https://github.com/EntonyJovino)](https://github.com/EntonyJovino)
+  [![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=black&link=https://github.com/tonyzinh)](https://github.com/tonyzinh)
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn--000?style=social&logo=Linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/entonyjoviino/)](https://www.linkedin.com/in/entonyjoviino/)
   [![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:entonysantos@outlook.com)](mailto:entonysantos@outlook.com)
