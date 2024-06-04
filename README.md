@@ -7,7 +7,7 @@ Currently, I'm seeking opportunities as a Front End Developer, where I can apply
 and frameworks like React and Vue.js to create exceptional user experiences.
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="ilustração de um computador" min-width="400px" max-width="350px" width="350px">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="ilustração de um computador" min-width="400px" max-width="350px" width="350px">
 
 ### Programming Languages
 <p align="left">
