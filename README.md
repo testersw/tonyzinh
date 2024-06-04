@@ -52,9 +52,10 @@ Languages ​​& Technologies: `Python`\
 Languages ​​& Technologies: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `Adobe Illustrator`\
 <br/>
 
-### Courses & Certificates 🎓
+<details>
+  <summary><h3>Courses & Certificates 🎓</h3><i> (Clique aqui)</i></summary>
 
-Below you will find completed courses and ongoing courses:
+  Below you will find completed courses and ongoing courses:
 
 [<img align="left" height="80px" width="80px" alt="FAESA" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSJ5TyESs-WoQwyVfJMvGE6FT1DMWhgBZ3tiMVZ8REg&s"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
 
@@ -76,7 +77,7 @@ Languages ​​& Technologies: `JavaScript`, `Typescript`, `NodeJS`\
 [**Dio**](https://www.dio.me/) • Abril 2024\
 Languages ​​& Technologies: `Java`\
 <br/>
-
+</details>
 
 ### GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=tonyzinh&show_icons=true" alt="tonyzinh" />
