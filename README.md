@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="ilustração de um computador" min-width="400px" max-width="450px" width="450px" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="ilustração de um computador" min-width="400px" max-width="350px" width="350px" align="right">
 
 ### Hello! I'm Entony Jovino ✌
 
