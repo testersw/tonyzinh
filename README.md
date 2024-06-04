@@ -1,10 +1,10 @@
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="ilustração de um computador" min-width="400px" max-width="350px" width="350px" align="right">
-
 ### Hello! I'm Entony Jovino ✌
 
 <p align="left"> 
 I'm currently studying Computer Science at FAESA and have a passion for transforming designs into intuitive interfaces. My journey into technology began with curiosity about how websites and apps work, leading me into programming. Currently, I'm seeking opportunities as a Front End Developer, where I can apply my skills in HTML, CSS, JavaScript, and frameworks like React and Vue.js to create exceptional user experiences.
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="ilustração de um computador" min-width="400px" max-width="350px" width="350px">
 
 ### Programming Languages
 <p align="left">
