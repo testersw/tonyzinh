@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="ilustração de um computador" min-width="400px" max-width="700px" width="1000px">
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="ilustração de um computador" min-width="400px" max-width="450px" width="450px" align="right">
 
 ### Hello! I'm Entony Jovino ✌
 
@@ -75,7 +75,6 @@ Languages ​​& Technologies: `Java`\
 
 ### GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=tonyzinh&show_icons=true" alt="tonyzinh" />
-
 
 ### Contact me 📩
 Feel free to get in touch via LinkedIn or email!
