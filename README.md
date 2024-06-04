@@ -3,10 +3,9 @@
 ### Hello! I'm Entony Jovino ✌
 
 <p align="left"> 
-I'm currently studying Computer Science at FAESA and have a passion for transforming designs into intuitive interfaces.
-My journey into technology began with curiosity about how websites and apps work, leading me into programming.
-Currently, I'm seeking opportunities as a Front End Developer, where I can apply my skills in HTML, CSS, JavaScript,
-and frameworks like React and Vue.js to create exceptional user experiences.
+Hello! I'm Entony Jovino, studying the 3rd period of Computer Science at FAESA University. My journey in technology began a few years ago, driven by an incessant curiosity about how websites and applications work. This curiosity led me to the world of programming, where I discovered my true passion.
+
+I am currently immersed in the world of robot automation using Python, looking for challenges that allow me to apply my knowledge in Python to create efficient and innovative solutions. I believe that my ability to develop scripts and programs to automate routine tasks is a differentiator that I can offer.
 </p>
 
 ### Programming Languages
