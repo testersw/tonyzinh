@@ -9,8 +9,6 @@ Currently, I'm seeking opportunities as a Front End Developer, where I can apply
 and frameworks like React and Vue.js to create exceptional user experiences.
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="ilustração de um computador" min-width="400px" max-width="350px" width="350px">
-
 ### Programming Languages
 <p align="left">
   <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" />
@@ -21,6 +19,8 @@ and frameworks like React and Vue.js to create exceptional user experiences.
   <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
   <img height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="ilustração de um computador" min-width="400px" max-width="350px" width="350px">
 
 ### Tools Used 🛠
 <p align="left">
