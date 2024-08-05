@@ -48,7 +48,7 @@ Languages ​​& Technologies: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `A
 <br/>
 
 <details>
-  <summary><h3>Courses & Certificates 🎓</h3><i> (Clique aqui)</i>
+  <summary><h3>Courses & Certificates 🎓</h3><i> (Clique aqui)</i></summary>
 
   Below you will find completed courses and ongoing courses:
 
