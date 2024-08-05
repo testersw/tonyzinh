@@ -59,20 +59,6 @@ Languages ​​& Technologies: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `A
 Languages ​​& Technologies: `Python`, `Java`, `C++`\
 <br/>
 
-[<img align="left" height="80px" width="80px" alt="OneBitCode" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj"/>](https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s176-c-k-c0x00ffffff-no-rj)
-
-**JavaScript FullStack** \
-[**OneBitCode**](https://www.onebitcode.com) • Março 2024\
-Languages ​​& Technologies: `JavaScript`, `Typescript`, `NodeJS`\
-<br/>
-
-[<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://play-lh.googleusercontent.com/wKwW77zj6Gd-llTDakdjSDnWUPKSMDGXhnZSXel3A3qQSiM1cbDvuspBpQk15tiT9ik"/>]()
-
-**Santander | Bootcamp Back-End com Java** \
-[**Dio**](https://www.dio.me/) • Abril 2024\
-Languages ​​& Technologies: `Java`\
-<br/>
-</details>
 
 ### GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=tonyzinh&show_icons=true" alt="tonyzinh" />
