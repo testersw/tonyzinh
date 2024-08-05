@@ -48,7 +48,7 @@ Languages ​​& Technologies: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `A
 <br/>
 
 <details>
-  <summary><h3>Courses & Certificates 🎓</h3><i> (Clique aqui)</i></summary>
+  <summary><h3>Courses & Certificates 🎓</h3><i> (Clique aqui)</i>
 
   Below you will find completed courses and ongoing courses:
 
@@ -59,6 +59,7 @@ Languages ​​& Technologies: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `A
 Languages ​​& Technologies: `Python`, `Java`, `C++`\
 <br/>
 
+</summary>
 
 ### GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=tonyzinh&show_icons=true" alt="tonyzinh" />
