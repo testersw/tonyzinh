@@ -59,7 +59,7 @@ Languages ​​& Technologies: `Adobe Premiere`, `Adobe Photoshop`, `Figma`, `A
 Languages ​​& Technologies: `Python`, `Java`, `C++`\
 <br/>
 
-</summary>
+</details>
 
 ### GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=tonyzinh&show_icons=true" alt="tonyzinh" />
