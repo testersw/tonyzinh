@@ -33,11 +33,11 @@ student of the third period of Computer Science at FAESA University, my technolo
 
 Below you will find my most recent work experiences:
 
-[<img align="left" height="80px" width="80px" alt="FIX" src="https://media.licdn.com/dms/image/C4E0BAQEX7IVsorb2qw/company-logo_200_200/0/1630630812902?e=1721865600&v=beta&t=siaRHoMu0ijEJMCuOxbPdqoNUs0chbrAkwgxLIesT4E"/>](https://fixsi.com.br/)
+[<img align="left" height="80px" width="80px" alt="FIX" src="https://media.licdn.com/dms/image/C4E0BAQEX7IVsorb2qw/company-logo_200_200/0/1630630812902?e=1730937600&v=beta&t=qbJALh0W5BSMTDMZtCiguG-OYyyn-QZkj-_6xkWcICM"/>](https://fixsi.com.br/)
 
 **IT Internship** \
 [**FIX Soluções Inteligentes**](https://fixsi.com.br/) • Março 2024\
-Languages ​​& Technologies: `Python`\
+Languages ​​& Technologies: `Python`,`Power Automate`\
 <br/>
 
 [<img align="left" height="80px" width="80px" alt="ZigTickets" src="https://media.licdn.com/dms/image/D4D0BAQEA561Ws9XxBg/company-logo_200_200/0/1694439830642/superticket_logo?e=2147483647&v=beta&t=mu4Evv9cLppKBXqhN1TBNtYRx1gyPJYJ_2oWwAR3UMk"/>](https://www.zig.tickets/?st=Esp%C3%ADrito%20Santo)
